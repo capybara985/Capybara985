@@ -1,14 +1,8 @@
-# Kara Li (Capybara985)
+
 
 ### Strategic Operator | AI & Developer Platforms | Scaling Operations
 
---- 
-
-## About Me
-
-As a seasoned operator from Stripe, I specialize in driving strategic initiatives, optimizing operational efficiency, and scaling complex systems. My career has been defined by a passion for leveraging technology to solve intricate business challenges and build robust platforms that empower developers and accelerate growth. I thrive at the intersection of strategy, technology, and execution, consistently delivering impactful results in fast-paced, high-growth environments.
-
-I am deeply fascinated by the transformative potential of Artificial Intelligence, particularly in the realm of voice and audio. My experience at Stripe has honed my ability to navigate the complexities of developer ecosystems, API-driven products, and global operational scaling – skills I believe are directly transferable and critical for a pioneering company like ElevenLabs.
+---
 
 ## My Expertise
 
