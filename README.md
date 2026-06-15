@@ -22,10 +22,5 @@ Here are a few projects that showcase my approach to combining strategic thinkin
 - **[Automated-Demo-Localization](https://github.com/Capybara985/automated-demo-localization)**: A tool that uses ElevenLabs Dubbing API to automatically localize product demo videos/audio for global sales teams.
 - **[Stripe-to-Voice-Bridge](https://github.com/Capybara985/stripe-to-voice-bridge)**: A concept project connecting Stripe webhook events to ElevenLabs voice notifications (e.g., "New Enterprise Lead" or "Payment Failed" alerts).
 
-## Connect with Me
-
-- **Email**: weiqilinov@gmail.com
-- **LinkedIn**: [Kara Li](https://www.linkedin.com/in/karali)
-- **GitHub**: [Capybara985](https://github.com/Capybara985)
 
 ---
